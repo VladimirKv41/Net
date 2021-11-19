@@ -1,2 +1,2 @@
 # Пример работы
-![Alt Text](D:\\EdgeDownload\Hnet-imag.gif)
+![Alt Text](https://media.giphy.com/media/91L8iW68mwrZosCmfe/giphy.gif)
