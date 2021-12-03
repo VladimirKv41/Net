@@ -201,7 +201,9 @@ public slots:
                 }
                 // Выводим их на экран.
                 label_status->setText(label_status->text() + "\n" + "Данные получены.. ");
-                html_text->setText(html_text->text() + buff);
+                for(uint16_t i = 0;i<sizeof(buff);i++){
+                    html_text->setText(html_text->text() + buff[i]);
+                }
             }
         }
         while (len!=0);
