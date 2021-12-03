@@ -1,6 +1,7 @@
 # Пример работы
 ##HTTP
 ### Пример неверного ввода 1
+https://media2.giphy.com/media/dxjtbWgsnaolfPz591/giphy.gif?cid=790b761125622caeda63e9fecb20b778dc2389488e93ef2a&rid=giphy.gif&ct=g
 ### Пример неверного ввода 2
 ### Пример верного ввода
 ##FTP
