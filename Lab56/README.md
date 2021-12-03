@@ -2,11 +2,13 @@
 ### Пример неверного ввода 1
 ![Alt Text](https://media.giphy.com/media/dxjtbWgsnaolfPz591/giphy.gif)
 ### Пример неверного ввода 2
+![Alt Text](https://media.giphy.com/media/HpsknMwRIXwPInGvx5/giphy.gif)
 ### Пример верного ввода
+![Alt Text](https://media.giphy.com/media/xpFIl3TViy5abDZF4o/giphy.gif)
 # Пример работы FTP
 ### Пример неверного ввода 1
+![Alt Text](https://media.giphy.com/media/HpsknMwRIXwPInGvx5/giphy.gif)
 ### Пример неверного ввода 2
+![Alt Text](https://media.giphy.com/media/HpsknMwRIXwPInGvx5/giphy.gif)
 ### Пример верного ввода
-![Alt Text](https://github.com/VladimirKv41/Images/blob/main/Hnet-image%20(3).gif?raw=true)
-![Alt Text](https://github.com/VladimirKv41/Images/blob/main/Hnet-image%20(5).gif?raw=true)
-![Alt Text](https://github.com/VladimirKv41/Images/blob/main/Hnet-image%20(6).gif?raw=true)
+![Alt Text](https://media.giphy.com/media/HpsknMwRIXwPInGvx5/giphy.gif)
