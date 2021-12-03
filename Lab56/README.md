@@ -1,7 +1,7 @@
 # Пример работы
 ##HTTP
 ### Пример неверного ввода 1
-https://media.giphy.com/media/dxjtbWgsnaolfPz591/giphy.gif
+![Alt Text](https://media.giphy.com/media/dxjtbWgsnaolfPz591/giphy.gif)
 ### Пример неверного ввода 2
 ### Пример верного ввода
 ##FTP
